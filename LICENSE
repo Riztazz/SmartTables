@@ -1,0 +1,51 @@
+Smart Tables - Source Available for Reference
+
+Copyright (c) 2026 Cezary Stanowski Software. All rights reserved.
+
+This source is published so it can be READ: to evaluate the plugin, to
+review how it is built, and to see the architecture behind it.
+It is not an open-source release, and publishing it grants no licence.
+
+
+YOU MAY
+
+  * Read the source.
+
+  * Quote short excerpts, with attribution, for review, teaching,
+    discussion or a citation.
+
+
+YOU MAY NOT, WITHOUT A SEPARATE WRITTEN LICENCE
+
+  * Use this source, in whole or in part, in any project - commercial or
+    otherwise.
+
+  * Copy, modify, translate, or create derivative works from it.
+
+  * Redistribute it, in source or in compiled form.
+
+  * Remove or alter this notice.
+
+Forking on GitHub is permitted only so far as GitHub's Terms of Service
+require, and grants no rights beyond what those terms compel.
+
+
+TO ACTUALLY USE SMART TABLES
+
+Buy it on FAB: https://www.fab.com/listings/c2cddc8e-0844-41bc-b58d-9cedd12f71fd
+
+That purchase comes with its own licence, which governs the copy you
+obtain there and supersedes this notice for it. This is a reading copy -
+every comment has been stripped, so it carries none of the documentation,
+and none of the Blueprint or Details-panel tooltips the real plugin has.
+
+
+NO WARRANTY
+
+THE SOURCE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOURCE OR THE USE OR OTHER DEALINGS IN THE
+SOURCE.

@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Smart Tables",
+	"Description": "A table widget for UMG that sorts, filters, selects and edits. Declare the columns once, then give it objects, a DataTable or a model of your own, and it builds only the rows on screen.",
+	"Category": "UI",
+	"CreatedBy": "Cezary Stanowski",
+	"CreatedByURL": "https://riztazz.github.io/",
+	"DocsURL": "https://riztazz.github.io/smart-tables/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a4d21eb2-5033-4138-ab88-68d686f8e6df",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/a4d21eb2-5033-4138-ab88-68d686f8e6df",
+	"SupportURL": "https://riztazz.github.io/support",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SmartTables",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [ "Win64" ]
+		},
+		{
+			"Name": "SmartTablesEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ]
+		},
+		{
+			"Name": "SmartTablesTests",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ]
+		}
+	]
+}
