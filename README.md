@@ -1,4 +1,7 @@
-<img src="docs/images/smarttables-logo.svg" alt="Smart Tables" width="300">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/images/smarttables-logo-white.svg">
+  <img src="docs/images/smarttables-logo.svg" alt="Smart Tables" width="300">
+</picture>
 
 Smart Tables is the table widget UMG does not ship: a million virtualised rows, columns declared in one
 place so no row can disagree with the header, and two-level natural sort that runs off the game thread.
